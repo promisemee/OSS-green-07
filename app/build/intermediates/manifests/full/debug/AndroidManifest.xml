@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.home.osstest"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="21"
+        android:targetSdkVersion="26" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <meta-data
+        android:name="android.support.VERSION"
+        android:value="25.3.1" />
+
+    <application
+        android:allowBackup="true"
+        android:debuggable="true"
+        android:icon="@mipmap/ic_launcher_round"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme" >
+        <meta-data
+            android:name="com.facebook.sdk.ApplicationId"
+            android:value="@string/facebook_app_id" />
+
+        <provider
+            android:name="com.facebook.FacebookContentProvider"
+            android:authorities="com.facebook.app.FacebookContentProvider1435167439929260"
+            android:exported="true" />
+
+        <activity android:name="com.example.home.osstest.MainActivity" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.facebook.FacebookActivity"
+            android:configChanges="keyboard|keyboardHidden|screenLayout|screenSize|orientation"
+            android:theme="@style/com_facebook_activity_theme" />
+        <activity android:name="com.example.home.osstest.HomeActivity" />
+        <activity android:name="com.example.home.osstest.CardNewsView" />
+        <activity android:name="com.example.home.osstest.LicenseInfo" />
+        <activity android:name="com.example.home.osstest.AppInfo" />
+        <activity android:name="com.nileshp.multiphotopicker.photopicker.activity.PickImageActivity" />
+        <activity
+            android:name="com.mopub.mobileads.MoPubActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize" />
+        <activity
+            android:name="com.mopub.mobileads.MraidActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize" />
+        <activity
+            android:name="com.mopub.common.MoPubBrowser"
+            android:configChanges="keyboardHidden|orientation|screenSize" />
+        <activity
+            android:name="com.mopub.mobileads.MraidVideoPlayerActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize" />
+        <activity android:name="com.facebook.CustomTabMainActivity" />
+        <activity
+            android:name="com.twitter.sdk.android.tweetui.PlayerActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:theme="@style/MediaTheme" />
+        <activity
+            android:name="com.twitter.sdk.android.tweetui.GalleryActivity"
+            android:theme="@style/MediaTheme" />
+        <!--
+         The initialization ContentProvider will call FacebookSdk.sdkInitialize automatically
+         with the application context. This config is merged in with the host app's manifest,
+         but there can only be one provider with the same authority activated at any given
+         point; so if the end user has two or more different apps that use Facebook SDK, only the
+         first one will be able to use the provider. To work around this problem, we use the
+         following placeholder in the authority to identify each host application as if it was
+         a completely different provider.
+        -->
+        <provider
+            android:name="com.facebook.internal.FacebookInitProvider"
+            android:authorities="com.example.home.osstest.FacebookInitProvider"
+            android:exported="false" />
+
+        <activity
+            android:name="com.twitter.sdk.android.tweetcomposer.ComposerActivity"
+            android:exported="false"
+            android:windowSoftInputMode="adjustResize|stateVisible" />
+
+        <service
+            android:name="com.twitter.sdk.android.tweetcomposer.TweetUploadService"
+            android:enabled="true"
+            android:exported="false" />
+
+        <activity
+            android:name="com.twitter.sdk.android.core.identity.OAuthActivity"
+            android:configChanges="orientation|screenSize"
+            android:excludeFromRecents="true"
+            android:exported="false" />
+
+        <meta-data
+            android:name="android.arch.lifecycle.VERSION"
+            android:value="27.0.0-SNAPSHOT" />
+    </application>
+
+</manifest>

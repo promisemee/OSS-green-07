@@ -113,6 +113,20 @@ public class HomeActivity extends AppCompatActivity {
             case R.id.removeCard://Card  삭제 이벤트
 
                 return true;
+
+            case R.id.appinfo://앱 정보 보여주기
+            {
+                Intent intentapp = new Intent(getApplicationContext(),AppInfo.class);
+                startActivity(intentapp);
+                return true;
+            }
+
+            case R.id.license://license 보여주기
+            {
+                Intent intentlicense = new Intent(getApplicationContext(),LicenseInfo.class);
+                startActivity(intentlicense);
+                return true;
+            }
         }
         return super.onOptionsItemSelected(item);
     }

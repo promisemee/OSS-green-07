@@ -1,6 +1,9 @@
 package com.example.home.osstest;
 
+import android.app.AlertDialog;
+import android.app.Dialog;
 import android.content.Context;
+import android.content.DialogInterface;
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
@@ -33,6 +36,8 @@ import org.json.JSONException;
 import org.json.JSONObject;
 
 import java.util.Arrays;
+
+
 
 public class MainActivity extends AppCompatActivity {
 
@@ -70,6 +75,7 @@ public class MainActivity extends AppCompatActivity {
 //                        페이스북 로그인 버튼 이벤트
                         faceBookLogIn();
                         break ;
+
 //트위터는 버튼 특성에 따라서 따로 만듬.
                     default:
                         break ;
@@ -178,6 +184,7 @@ public class MainActivity extends AppCompatActivity {
 
 
     }
+
 
 }
 

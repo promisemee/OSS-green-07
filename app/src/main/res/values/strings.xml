@@ -5,5 +5,8 @@
 
     <string name="com.twitter.sdk.android.CONSUMER_KEY">vjsomtQmsznhYVPqYqbWKQHVC</string>
     <string name="com.twitter.sdk.android.CONSUMER_SECRET">WUdyADzUAord54zahdFfx8ksbl1y9NKyKwbPid3IT9JkJqdc9B</string>
+    <string name="AppInfo">앱에 대한 정보가 표시됩니다.</string>
+    <string name="LicenseInfo">라이센스에 대한 정보가 표시됩니다.</string>
+    <string name="back">뒤로</string>
 
 </resources>

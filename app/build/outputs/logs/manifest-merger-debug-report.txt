@@ -1,0 +1,376 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Haru\AndroidStudioProjects\OSS-green-07-master\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from C:\Users\Haru\AndroidStudioProjects\OSS-green-07-master\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from C:\Users\Haru\AndroidStudioProjects\OSS-green-07-master\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from C:\Users\Haru\AndroidStudioProjects\OSS-green-07-master\app\src\main\AndroidManifest.xml:2:1-39:12
+MERGED from [com.github.nileshpambhar:MultiPhotoPicker:v1.2] C:\Users\Haru\.gradle\caches\transforms-1\files-1.1\MultiPhotoPicker-v1.2.aar\0fe771ea4d6ad4ef6afd394ee5d5ffbf\AndroidManifest.xml:2:1-23:12
+MERGED from [com.facebook.android:facebook-android-sdk:4.28.0] C:\Users\Haru\.gradle\caches\transforms-1\files-1.1\facebook-android-sdk-4.28.0.aar\3f1aa2d2e726ba99f86732dcc5b3f821\AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-share:4.28.0] C:\Users\Haru\.gradle\caches\transforms-1\files-1.1\facebook-share-4.28.0.aar\4bccdafc8fadc572e6a1e8217738e9c2\AndroidManifest.xml:21:1-31:12
+MERGED from [com.twitter.sdk.android:twitter:3.1.1] C:\Users\Haru\.gradle\caches\transforms-1\files-1.1\twitter-3.1.1.aar\74b4ff589f3da52f2cc65f62c6fd6e68\AndroidManifest.xml:18:1-27:12
+MERGED from [com.twitter.sdk.android:twitter-mopub:3.1.1] C:\Users\Haru\.gradle\caches\transforms-1\files-1.1\twitter-mopub-3.1.1.aar\4f293d7feae23270a1a3c9d11cd34593\AndroidManifest.xml:18:1-42:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Haru\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\e5e402e6a94ffbd763523b0379de923d\AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.android:facebook-login:4.28.0] C:\Users\Haru\.gradle\caches\transforms-1\files-1.1\facebook-login-4.28.0.aar\d3424335f213fb2ffe9687f6127c6293\AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-common:4.28.0] C:\Users\Haru\.gradle\caches\transforms-1\files-1.1\facebook-common-4.28.0.aar\931541f704abeb5cdb438aaf0048a43e\AndroidManifest.xml:21:1-36:12
+MERGED from [com.android.support:cardview-v7:27.0.0] C:\Users\Haru\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.0.0.aar\1e9bd6757fefde6b76dbadb6dfca5391\AndroidManifest.xml:17:1-22:12
+MERGED from [com.twitter.sdk.android:tweet-ui:3.1.1] C:\Users\Haru\.gradle\caches\transforms-1\files-1.1\tweet-ui-3.1.1.aar\d5d52ea16355196d9912f9295b5097c1\AndroidManifest.xml:18:1-37:12
+MERGED from [com.mopub:mopub-sdk:4.11.0] C:\Users\Haru\.gradle\caches\transforms-1\files-1.1\mopub-sdk-4.11.0.aar\9731aca36cef88f98567df50076468b8\AndroidManifest.xml:2:1-13:12
+MERGED from [com.mopub:mopub-sdk-native-video:4.11.0] C:\Users\Haru\.gradle\caches\transforms-1\files-1.1\mopub-sdk-native-video-4.11.0.aar\d7cf8971863b1be232937534bdecff0c\AndroidManifest.xml:2:1-13:12
+MERGED from [com.mopub:mopub-sdk-native-static:4.11.0] C:\Users\Haru\.gradle\caches\transforms-1\files-1.1\mopub-sdk-native-static-4.11.0.aar\04bbdb4a215c9e2d36e669c7abafb764\AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.support:recyclerview-v7:27.0.0] C:\Users\Haru\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.0.0.aar\cc5f258aaa75a524f6427ffda2a0354f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.0.0] C:\Users\Haru\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.0.aar\d08b60bf3f4fce9aeed20323e265e42c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.mopub:mopub-sdk-banner:4.11.0] C:\Users\Haru\.gradle\caches\transforms-1\files-1.1\mopub-sdk-banner-4.11.0.aar\32aaee360fab2ce64bfe1b9628b576af\AndroidManifest.xml:2:1-13:12
+MERGED from [com.mopub:mopub-sdk-rewardedvideo:4.11.0] C:\Users\Haru\.gradle\caches\transforms-1\files-1.1\mopub-sdk-rewardedvideo-4.11.0.aar\66860868df3ca381c362f8fb9e31e0b6\AndroidManifest.xml:2:1-13:12
+MERGED from [com.mopub:mopub-sdk-interstitial:4.11.0] C:\Users\Haru\.gradle\caches\transforms-1\files-1.1\mopub-sdk-interstitial-4.11.0.aar\3888241bfc870ab2463c96ad19e96fa6\AndroidManifest.xml:2:1-13:12
+MERGED from [com.mopub:mopub-sdk-base:4.11.0] C:\Users\Haru\.gradle\caches\transforms-1\files-1.1\mopub-sdk-base-4.11.0.aar\2973fadc83167d3d48de7f5e1a7f82e1\AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.support:support-v4:27.0.0] C:\Users\Haru\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.0.aar\7763ae03604efefd67274eb84edf6a9f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.android:facebook-places:4.28.0] C:\Users\Haru\.gradle\caches\transforms-1\files-1.1\facebook-places-4.28.0.aar\49e7eecaaa1ab049194c03e3f581f5b5\AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-applinks:4.28.0] C:\Users\Haru\.gradle\caches\transforms-1\files-1.1\facebook-applinks-4.28.0.aar\776453d8f0ac1bf6fbc6ae908ed75db9\AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-messenger:4.28.0] C:\Users\Haru\.gradle\caches\transforms-1\files-1.1\facebook-messenger-4.28.0.aar\167b6c9c20be0057b8919434f8432f1e\AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-core:4.28.0] C:\Users\Haru\.gradle\caches\transforms-1\files-1.1\facebook-core-4.28.0.aar\22835d2b4178ac60aa8084f2af123caa\AndroidManifest.xml:21:1-45:12
+MERGED from [com.twitter.sdk.android:tweet-composer:3.1.1] C:\Users\Haru\.gradle\caches\transforms-1\files-1.1\tweet-composer-3.1.1.aar\9f9e7d26ae538af4d8e97df3f5af4c10\AndroidManifest.xml:18:1-39:12
+MERGED from [com.twitter.sdk.android:twitter-core:3.1.1] C:\Users\Haru\.gradle\caches\transforms-1\files-1.1\twitter-core-3.1.1.aar\232132cbd5ba93fa2ddf7a8d8796b03d\AndroidManifest.xml:18:1-35:12
+MERGED from [com.android.support:customtabs:25.3.1] C:\Users\Haru\.gradle\caches\transforms-1\files-1.1\customtabs-25.3.1.aar\89f23c037b3a63b297871bc4128c11f5\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-fragment:27.0.0] C:\Users\Haru\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.0.aar\e25068042fe62375c7af0f119b371e68\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.0] C:\Users\Haru\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.0.aar\d87a05d0f687f38119d2271a94f2d09a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.0] C:\Users\Haru\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.0.aar\8089c8b90bc9d60dc50ad2eb778daa48\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.0] C:\Users\Haru\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.0.aar\122d3c771d89342635f05e71cce985ec\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.0] C:\Users\Haru\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.0.aar\ee5be7f0d64e1f6ebc8d2933f7af184f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.0.0] C:\Users\Haru\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.0.aar\81e8e655c57067874deeeea5909bcb7a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.0] C:\Users\Haru\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.0.aar\48362945e31e66e465b43a17d17187ad\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.exoplayer:exoplayer:r1.5.6] C:\Users\Haru\.gradle\caches\transforms-1\files-1.1\exoplayer-r1.5.6.aar\2bb83b710db69742ac8c64361513c1cd\AndroidManifest.xml:17:1-28:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Haru\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\a93ca50364213ddfa3e647f48bd7d8a2\AndroidManifest.xml:17:1-30:12
+INJECTED from C:\Users\Haru\AndroidStudioProjects\OSS-green-07-master\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from C:\Users\Haru\AndroidStudioProjects\OSS-green-07-master\app\src\main\AndroidManifest.xml:2:1-39:12
+INJECTED from C:\Users\Haru\AndroidStudioProjects\OSS-green-07-master\app\src\main\AndroidManifest.xml:2:1-39:12
+	package
+		ADDED from C:\Users\Haru\AndroidStudioProjects\OSS-green-07-master\app\src\main\AndroidManifest.xml:4:5-39
+		INJECTED from C:\Users\Haru\AndroidStudioProjects\OSS-green-07-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Haru\AndroidStudioProjects\OSS-green-07-master\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Haru\AndroidStudioProjects\OSS-green-07-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Haru\AndroidStudioProjects\OSS-green-07-master\app\src\main\AndroidManifest.xml:2:1-39:12
+		INJECTED from C:\Users\Haru\AndroidStudioProjects\OSS-green-07-master\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\Haru\AndroidStudioProjects\OSS-green-07-master\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\Users\Haru\AndroidStudioProjects\OSS-green-07-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Haru\AndroidStudioProjects\OSS-green-07-master\app\src\main\AndroidManifest.xml:2:1-39:12
+		INJECTED from C:\Users\Haru\AndroidStudioProjects\OSS-green-07-master\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Haru\AndroidStudioProjects\OSS-green-07-master\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Haru\AndroidStudioProjects\OSS-green-07-master\app\src\main\AndroidManifest.xml:6:5-67
+MERGED from [com.twitter.sdk.android:tweet-ui:3.1.1] C:\Users\Haru\.gradle\caches\transforms-1\files-1.1\tweet-ui-3.1.1.aar\d5d52ea16355196d9912f9295b5097c1\AndroidManifest.xml:25:5-67
+MERGED from [com.twitter.sdk.android:tweet-ui:3.1.1] C:\Users\Haru\.gradle\caches\transforms-1\files-1.1\tweet-ui-3.1.1.aar\d5d52ea16355196d9912f9295b5097c1\AndroidManifest.xml:25:5-67
+MERGED from [com.twitter.sdk.android:tweet-composer:3.1.1] C:\Users\Haru\.gradle\caches\transforms-1\files-1.1\tweet-composer-3.1.1.aar\9f9e7d26ae538af4d8e97df3f5af4c10\AndroidManifest.xml:25:5-67
+MERGED from [com.twitter.sdk.android:tweet-composer:3.1.1] C:\Users\Haru\.gradle\caches\transforms-1\files-1.1\tweet-composer-3.1.1.aar\9f9e7d26ae538af4d8e97df3f5af4c10\AndroidManifest.xml:25:5-67
+MERGED from [com.twitter.sdk.android:twitter-core:3.1.1] C:\Users\Haru\.gradle\caches\transforms-1\files-1.1\twitter-core-3.1.1.aar\232132cbd5ba93fa2ddf7a8d8796b03d\AndroidManifest.xml:25:5-67
+MERGED from [com.twitter.sdk.android:twitter-core:3.1.1] C:\Users\Haru\.gradle\caches\transforms-1\files-1.1\twitter-core-3.1.1.aar\232132cbd5ba93fa2ddf7a8d8796b03d\AndroidManifest.xml:25:5-67
+	android:name
+		ADDED from C:\Users\Haru\AndroidStudioProjects\OSS-green-07-master\app\src\main\AndroidManifest.xml:6:22-64
+application
+ADDED from C:\Users\Haru\AndroidStudioProjects\OSS-green-07-master\app\src\main\AndroidManifest.xml:8:5-37:19
+MERGED from [com.github.nileshpambhar:MultiPhotoPicker:v1.2] C:\Users\Haru\.gradle\caches\transforms-1\files-1.1\MultiPhotoPicker-v1.2.aar\0fe771ea4d6ad4ef6afd394ee5d5ffbf\AndroidManifest.xml:13:5-21:19
+MERGED from [com.github.nileshpambhar:MultiPhotoPicker:v1.2] C:\Users\Haru\.gradle\caches\transforms-1\files-1.1\MultiPhotoPicker-v1.2.aar\0fe771ea4d6ad4ef6afd394ee5d5ffbf\AndroidManifest.xml:13:5-21:19
+MERGED from [com.facebook.android:facebook-android-sdk:4.28.0] C:\Users\Haru\.gradle\caches\transforms-1\files-1.1\facebook-android-sdk-4.28.0.aar\3f1aa2d2e726ba99f86732dcc5b3f821\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-android-sdk:4.28.0] C:\Users\Haru\.gradle\caches\transforms-1\files-1.1\facebook-android-sdk-4.28.0.aar\3f1aa2d2e726ba99f86732dcc5b3f821\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-share:4.28.0] C:\Users\Haru\.gradle\caches\transforms-1\files-1.1\facebook-share-4.28.0.aar\4bccdafc8fadc572e6a1e8217738e9c2\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-share:4.28.0] C:\Users\Haru\.gradle\caches\transforms-1\files-1.1\facebook-share-4.28.0.aar\4bccdafc8fadc572e6a1e8217738e9c2\AndroidManifest.xml:28:5-29:19
+MERGED from [com.twitter.sdk.android:twitter:3.1.1] C:\Users\Haru\.gradle\caches\transforms-1\files-1.1\twitter-3.1.1.aar\74b4ff589f3da52f2cc65f62c6fd6e68\AndroidManifest.xml:25:5-20
+MERGED from [com.twitter.sdk.android:twitter:3.1.1] C:\Users\Haru\.gradle\caches\transforms-1\files-1.1\twitter-3.1.1.aar\74b4ff589f3da52f2cc65f62c6fd6e68\AndroidManifest.xml:25:5-20
+MERGED from [com.twitter.sdk.android:twitter-mopub:3.1.1] C:\Users\Haru\.gradle\caches\transforms-1\files-1.1\twitter-mopub-3.1.1.aar\4f293d7feae23270a1a3c9d11cd34593\AndroidManifest.xml:27:5-40:19
+MERGED from [com.twitter.sdk.android:twitter-mopub:3.1.1] C:\Users\Haru\.gradle\caches\transforms-1\files-1.1\twitter-mopub-3.1.1.aar\4f293d7feae23270a1a3c9d11cd34593\AndroidManifest.xml:27:5-40:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Haru\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\e5e402e6a94ffbd763523b0379de923d\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Haru\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\e5e402e6a94ffbd763523b0379de923d\AndroidManifest.xml:9:5-20
+MERGED from [com.facebook.android:facebook-login:4.28.0] C:\Users\Haru\.gradle\caches\transforms-1\files-1.1\facebook-login-4.28.0.aar\d3424335f213fb2ffe9687f6127c6293\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-login:4.28.0] C:\Users\Haru\.gradle\caches\transforms-1\files-1.1\facebook-login-4.28.0.aar\d3424335f213fb2ffe9687f6127c6293\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-common:4.28.0] C:\Users\Haru\.gradle\caches\transforms-1\files-1.1\facebook-common-4.28.0.aar\931541f704abeb5cdb438aaf0048a43e\AndroidManifest.xml:28:5-34:19
+MERGED from [com.facebook.android:facebook-common:4.28.0] C:\Users\Haru\.gradle\caches\transforms-1\files-1.1\facebook-common-4.28.0.aar\931541f704abeb5cdb438aaf0048a43e\AndroidManifest.xml:28:5-34:19
+MERGED from [com.twitter.sdk.android:tweet-ui:3.1.1] C:\Users\Haru\.gradle\caches\transforms-1\files-1.1\tweet-ui-3.1.1.aar\d5d52ea16355196d9912f9295b5097c1\AndroidManifest.xml:27:5-35:19
+MERGED from [com.twitter.sdk.android:tweet-ui:3.1.1] C:\Users\Haru\.gradle\caches\transforms-1\files-1.1\tweet-ui-3.1.1.aar\d5d52ea16355196d9912f9295b5097c1\AndroidManifest.xml:27:5-35:19
+MERGED from [com.mopub:mopub-sdk:4.11.0] C:\Users\Haru\.gradle\caches\transforms-1\files-1.1\mopub-sdk-4.11.0.aar\9731aca36cef88f98567df50076468b8\AndroidManifest.xml:11:5-20
+MERGED from [com.mopub:mopub-sdk:4.11.0] C:\Users\Haru\.gradle\caches\transforms-1\files-1.1\mopub-sdk-4.11.0.aar\9731aca36cef88f98567df50076468b8\AndroidManifest.xml:11:5-20
+MERGED from [com.mopub:mopub-sdk-native-video:4.11.0] C:\Users\Haru\.gradle\caches\transforms-1\files-1.1\mopub-sdk-native-video-4.11.0.aar\d7cf8971863b1be232937534bdecff0c\AndroidManifest.xml:11:5-20
+MERGED from [com.mopub:mopub-sdk-native-video:4.11.0] C:\Users\Haru\.gradle\caches\transforms-1\files-1.1\mopub-sdk-native-video-4.11.0.aar\d7cf8971863b1be232937534bdecff0c\AndroidManifest.xml:11:5-20
+MERGED from [com.mopub:mopub-sdk-native-static:4.11.0] C:\Users\Haru\.gradle\caches\transforms-1\files-1.1\mopub-sdk-native-static-4.11.0.aar\04bbdb4a215c9e2d36e669c7abafb764\AndroidManifest.xml:11:5-20
+MERGED from [com.mopub:mopub-sdk-native-static:4.11.0] C:\Users\Haru\.gradle\caches\transforms-1\files-1.1\mopub-sdk-native-static-4.11.0.aar\04bbdb4a215c9e2d36e669c7abafb764\AndroidManifest.xml:11:5-20
+MERGED from [com.mopub:mopub-sdk-banner:4.11.0] C:\Users\Haru\.gradle\caches\transforms-1\files-1.1\mopub-sdk-banner-4.11.0.aar\32aaee360fab2ce64bfe1b9628b576af\AndroidManifest.xml:11:5-20
+MERGED from [com.mopub:mopub-sdk-banner:4.11.0] C:\Users\Haru\.gradle\caches\transforms-1\files-1.1\mopub-sdk-banner-4.11.0.aar\32aaee360fab2ce64bfe1b9628b576af\AndroidManifest.xml:11:5-20
+MERGED from [com.mopub:mopub-sdk-rewardedvideo:4.11.0] C:\Users\Haru\.gradle\caches\transforms-1\files-1.1\mopub-sdk-rewardedvideo-4.11.0.aar\66860868df3ca381c362f8fb9e31e0b6\AndroidManifest.xml:11:5-20
+MERGED from [com.mopub:mopub-sdk-rewardedvideo:4.11.0] C:\Users\Haru\.gradle\caches\transforms-1\files-1.1\mopub-sdk-rewardedvideo-4.11.0.aar\66860868df3ca381c362f8fb9e31e0b6\AndroidManifest.xml:11:5-20
+MERGED from [com.mopub:mopub-sdk-interstitial:4.11.0] C:\Users\Haru\.gradle\caches\transforms-1\files-1.1\mopub-sdk-interstitial-4.11.0.aar\3888241bfc870ab2463c96ad19e96fa6\AndroidManifest.xml:11:5-20
+MERGED from [com.mopub:mopub-sdk-interstitial:4.11.0] C:\Users\Haru\.gradle\caches\transforms-1\files-1.1\mopub-sdk-interstitial-4.11.0.aar\3888241bfc870ab2463c96ad19e96fa6\AndroidManifest.xml:11:5-20
+MERGED from [com.mopub:mopub-sdk-base:4.11.0] C:\Users\Haru\.gradle\caches\transforms-1\files-1.1\mopub-sdk-base-4.11.0.aar\2973fadc83167d3d48de7f5e1a7f82e1\AndroidManifest.xml:11:5-20
+MERGED from [com.mopub:mopub-sdk-base:4.11.0] C:\Users\Haru\.gradle\caches\transforms-1\files-1.1\mopub-sdk-base-4.11.0.aar\2973fadc83167d3d48de7f5e1a7f82e1\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.android:facebook-places:4.28.0] C:\Users\Haru\.gradle\caches\transforms-1\files-1.1\facebook-places-4.28.0.aar\49e7eecaaa1ab049194c03e3f581f5b5\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-places:4.28.0] C:\Users\Haru\.gradle\caches\transforms-1\files-1.1\facebook-places-4.28.0.aar\49e7eecaaa1ab049194c03e3f581f5b5\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-applinks:4.28.0] C:\Users\Haru\.gradle\caches\transforms-1\files-1.1\facebook-applinks-4.28.0.aar\776453d8f0ac1bf6fbc6ae908ed75db9\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-applinks:4.28.0] C:\Users\Haru\.gradle\caches\transforms-1\files-1.1\facebook-applinks-4.28.0.aar\776453d8f0ac1bf6fbc6ae908ed75db9\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-messenger:4.28.0] C:\Users\Haru\.gradle\caches\transforms-1\files-1.1\facebook-messenger-4.28.0.aar\167b6c9c20be0057b8919434f8432f1e\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-messenger:4.28.0] C:\Users\Haru\.gradle\caches\transforms-1\files-1.1\facebook-messenger-4.28.0.aar\167b6c9c20be0057b8919434f8432f1e\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-core:4.28.0] C:\Users\Haru\.gradle\caches\transforms-1\files-1.1\facebook-core-4.28.0.aar\22835d2b4178ac60aa8084f2af123caa\AndroidManifest.xml:28:5-43:19
+MERGED from [com.facebook.android:facebook-core:4.28.0] C:\Users\Haru\.gradle\caches\transforms-1\files-1.1\facebook-core-4.28.0.aar\22835d2b4178ac60aa8084f2af123caa\AndroidManifest.xml:28:5-43:19
+MERGED from [com.twitter.sdk.android:tweet-composer:3.1.1] C:\Users\Haru\.gradle\caches\transforms-1\files-1.1\tweet-composer-3.1.1.aar\9f9e7d26ae538af4d8e97df3f5af4c10\AndroidManifest.xml:27:5-37:19
+MERGED from [com.twitter.sdk.android:tweet-composer:3.1.1] C:\Users\Haru\.gradle\caches\transforms-1\files-1.1\tweet-composer-3.1.1.aar\9f9e7d26ae538af4d8e97df3f5af4c10\AndroidManifest.xml:27:5-37:19
+MERGED from [com.twitter.sdk.android:twitter-core:3.1.1] C:\Users\Haru\.gradle\caches\transforms-1\files-1.1\twitter-core-3.1.1.aar\232132cbd5ba93fa2ddf7a8d8796b03d\AndroidManifest.xml:27:5-33:19
+MERGED from [com.twitter.sdk.android:twitter-core:3.1.1] C:\Users\Haru\.gradle\caches\transforms-1\files-1.1\twitter-core-3.1.1.aar\232132cbd5ba93fa2ddf7a8d8796b03d\AndroidManifest.xml:27:5-33:19
+MERGED from [com.android.support:customtabs:25.3.1] C:\Users\Haru\.gradle\caches\transforms-1\files-1.1\customtabs-25.3.1.aar\89f23c037b3a63b297871bc4128c11f5\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:customtabs:25.3.1] C:\Users\Haru\.gradle\caches\transforms-1\files-1.1\customtabs-25.3.1.aar\89f23c037b3a63b297871bc4128c11f5\AndroidManifest.xml:26:5-20
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Haru\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\a93ca50364213ddfa3e647f48bd7d8a2\AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Haru\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\a93ca50364213ddfa3e647f48bd7d8a2\AndroidManifest.xml:24:5-28:19
+	android:supportsRtl
+		ADDED from C:\Users\Haru\AndroidStudioProjects\OSS-green-07-master\app\src\main\AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from C:\Users\Haru\AndroidStudioProjects\OSS-green-07-master\app\src\main\AndroidManifest.xml:11:9-41
+	android:roundIcon
+		ADDED from C:\Users\Haru\AndroidStudioProjects\OSS-green-07-master\app\src\main\AndroidManifest.xml:12:9-54
+	android:icon
+		ADDED from C:\Users\Haru\AndroidStudioProjects\OSS-green-07-master\app\src\main\AndroidManifest.xml:10:9-49
+		REJECTED from [com.github.nileshpambhar:MultiPhotoPicker:v1.2] C:\Users\Haru\.gradle\caches\transforms-1\files-1.1\MultiPhotoPicker-v1.2.aar\0fe771ea4d6ad4ef6afd394ee5d5ffbf\AndroidManifest.xml:15:9-43
+	android:allowBackup
+		ADDED from C:\Users\Haru\AndroidStudioProjects\OSS-green-07-master\app\src\main\AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from C:\Users\Haru\AndroidStudioProjects\OSS-green-07-master\app\src\main\AndroidManifest.xml:15:9-40
+	tools:replace
+		ADDED from C:\Users\Haru\AndroidStudioProjects\OSS-green-07-master\app\src\main\AndroidManifest.xml:14:9-38
+meta-data#com.facebook.sdk.ApplicationId
+ADDED from C:\Users\Haru\AndroidStudioProjects\OSS-green-07-master\app\src\main\AndroidManifest.xml:16:9-18:55
+	android:value
+		ADDED from C:\Users\Haru\AndroidStudioProjects\OSS-green-07-master\app\src\main\AndroidManifest.xml:18:13-52
+	android:name
+		ADDED from C:\Users\Haru\AndroidStudioProjects\OSS-green-07-master\app\src\main\AndroidManifest.xml:17:13-58
+provider#com.facebook.FacebookContentProvider
+ADDED from C:\Users\Haru\AndroidStudioProjects\OSS-green-07-master\app\src\main\AndroidManifest.xml:20:9-23:39
+	android:authorities
+		ADDED from C:\Users\Haru\AndroidStudioProjects\OSS-green-07-master\app\src\main\AndroidManifest.xml:22:13-91
+	android:exported
+		ADDED from C:\Users\Haru\AndroidStudioProjects\OSS-green-07-master\app\src\main\AndroidManifest.xml:23:13-36
+	android:name
+		ADDED from C:\Users\Haru\AndroidStudioProjects\OSS-green-07-master\app\src\main\AndroidManifest.xml:21:13-64
+activity#com.example.home.osstest.MainActivity
+ADDED from C:\Users\Haru\AndroidStudioProjects\OSS-green-07-master\app\src\main\AndroidManifest.xml:25:9-31:20
+	android:name
+		ADDED from C:\Users\Haru\AndroidStudioProjects\OSS-green-07-master\app\src\main\AndroidManifest.xml:25:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Haru\AndroidStudioProjects\OSS-green-07-master\app\src\main\AndroidManifest.xml:26:13-30:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Haru\AndroidStudioProjects\OSS-green-07-master\app\src\main\AndroidManifest.xml:27:17-69
+	android:name
+		ADDED from C:\Users\Haru\AndroidStudioProjects\OSS-green-07-master\app\src\main\AndroidManifest.xml:27:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Haru\AndroidStudioProjects\OSS-green-07-master\app\src\main\AndroidManifest.xml:29:17-77
+	android:name
+		ADDED from C:\Users\Haru\AndroidStudioProjects\OSS-green-07-master\app\src\main\AndroidManifest.xml:29:27-74
+activity#com.facebook.FacebookActivity
+ADDED from C:\Users\Haru\AndroidStudioProjects\OSS-green-07-master\app\src\main\AndroidManifest.xml:32:9-66
+MERGED from [com.facebook.android:facebook-common:4.28.0] C:\Users\Haru\.gradle\caches\transforms-1\files-1.1\facebook-common-4.28.0.aar\931541f704abeb5cdb438aaf0048a43e\AndroidManifest.xml:29:9-32:66
+MERGED from [com.facebook.android:facebook-common:4.28.0] C:\Users\Haru\.gradle\caches\transforms-1\files-1.1\facebook-common-4.28.0.aar\931541f704abeb5cdb438aaf0048a43e\AndroidManifest.xml:29:9-32:66
+	android:configChanges
+		ADDED from [com.facebook.android:facebook-common:4.28.0] C:\Users\Haru\.gradle\caches\transforms-1\files-1.1\facebook-common-4.28.0.aar\931541f704abeb5cdb438aaf0048a43e\AndroidManifest.xml:31:13-96
+	android:theme
+		ADDED from [com.facebook.android:facebook-common:4.28.0] C:\Users\Haru\.gradle\caches\transforms-1\files-1.1\facebook-common-4.28.0.aar\931541f704abeb5cdb438aaf0048a43e\AndroidManifest.xml:32:13-63
+	android:name
+		ADDED from C:\Users\Haru\AndroidStudioProjects\OSS-green-07-master\app\src\main\AndroidManifest.xml:32:19-63
+activity#com.example.home.osstest.HomeActivity
+ADDED from C:\Users\Haru\AndroidStudioProjects\OSS-green-07-master\app\src\main\AndroidManifest.xml:33:9-50
+	android:name
+		ADDED from C:\Users\Haru\AndroidStudioProjects\OSS-green-07-master\app\src\main\AndroidManifest.xml:33:19-47
+activity#com.example.home.osstest.CardNewsView
+ADDED from C:\Users\Haru\AndroidStudioProjects\OSS-green-07-master\app\src\main\AndroidManifest.xml:34:9-50
+	android:name
+		ADDED from C:\Users\Haru\AndroidStudioProjects\OSS-green-07-master\app\src\main\AndroidManifest.xml:34:19-47
+activity#com.example.home.osstest.LicenseInfo
+ADDED from C:\Users\Haru\AndroidStudioProjects\OSS-green-07-master\app\src\main\AndroidManifest.xml:35:9-49
+	android:name
+		ADDED from C:\Users\Haru\AndroidStudioProjects\OSS-green-07-master\app\src\main\AndroidManifest.xml:35:19-46
+activity#com.example.home.osstest.AppInfo
+ADDED from C:\Users\Haru\AndroidStudioProjects\OSS-green-07-master\app\src\main\AndroidManifest.xml:36:9-54
+	android:name
+		ADDED from C:\Users\Haru\AndroidStudioProjects\OSS-green-07-master\app\src\main\AndroidManifest.xml:36:19-42
+uses-sdk
+INJECTED from C:\Users\Haru\AndroidStudioProjects\OSS-green-07-master\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Haru\AndroidStudioProjects\OSS-green-07-master\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Haru\AndroidStudioProjects\OSS-green-07-master\app\src\main\AndroidManifest.xml
+MERGED from [com.github.nileshpambhar:MultiPhotoPicker:v1.2] C:\Users\Haru\.gradle\caches\transforms-1\files-1.1\MultiPhotoPicker-v1.2.aar\0fe771ea4d6ad4ef6afd394ee5d5ffbf\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.nileshpambhar:MultiPhotoPicker:v1.2] C:\Users\Haru\.gradle\caches\transforms-1\files-1.1\MultiPhotoPicker-v1.2.aar\0fe771ea4d6ad4ef6afd394ee5d5ffbf\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.android:facebook-android-sdk:4.28.0] C:\Users\Haru\.gradle\caches\transforms-1\files-1.1\facebook-android-sdk-4.28.0.aar\3f1aa2d2e726ba99f86732dcc5b3f821\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-android-sdk:4.28.0] C:\Users\Haru\.gradle\caches\transforms-1\files-1.1\facebook-android-sdk-4.28.0.aar\3f1aa2d2e726ba99f86732dcc5b3f821\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-share:4.28.0] C:\Users\Haru\.gradle\caches\transforms-1\files-1.1\facebook-share-4.28.0.aar\4bccdafc8fadc572e6a1e8217738e9c2\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-share:4.28.0] C:\Users\Haru\.gradle\caches\transforms-1\files-1.1\facebook-share-4.28.0.aar\4bccdafc8fadc572e6a1e8217738e9c2\AndroidManifest.xml:24:5-26:41
+MERGED from [com.twitter.sdk.android:twitter:3.1.1] C:\Users\Haru\.gradle\caches\transforms-1\files-1.1\twitter-3.1.1.aar\74b4ff589f3da52f2cc65f62c6fd6e68\AndroidManifest.xml:23:5-44
+MERGED from [com.twitter.sdk.android:twitter:3.1.1] C:\Users\Haru\.gradle\caches\transforms-1\files-1.1\twitter-3.1.1.aar\74b4ff589f3da52f2cc65f62c6fd6e68\AndroidManifest.xml:23:5-44
+MERGED from [com.twitter.sdk.android:twitter-mopub:3.1.1] C:\Users\Haru\.gradle\caches\transforms-1\files-1.1\twitter-mopub-3.1.1.aar\4f293d7feae23270a1a3c9d11cd34593\AndroidManifest.xml:23:5-44
+MERGED from [com.twitter.sdk.android:twitter-mopub:3.1.1] C:\Users\Haru\.gradle\caches\transforms-1\files-1.1\twitter-mopub-3.1.1.aar\4f293d7feae23270a1a3c9d11cd34593\AndroidManifest.xml:23:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Haru\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\e5e402e6a94ffbd763523b0379de923d\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Haru\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\e5e402e6a94ffbd763523b0379de923d\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.android:facebook-login:4.28.0] C:\Users\Haru\.gradle\caches\transforms-1\files-1.1\facebook-login-4.28.0.aar\d3424335f213fb2ffe9687f6127c6293\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-login:4.28.0] C:\Users\Haru\.gradle\caches\transforms-1\files-1.1\facebook-login-4.28.0.aar\d3424335f213fb2ffe9687f6127c6293\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-common:4.28.0] C:\Users\Haru\.gradle\caches\transforms-1\files-1.1\facebook-common-4.28.0.aar\931541f704abeb5cdb438aaf0048a43e\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-common:4.28.0] C:\Users\Haru\.gradle\caches\transforms-1\files-1.1\facebook-common-4.28.0.aar\931541f704abeb5cdb438aaf0048a43e\AndroidManifest.xml:24:5-26:41
+MERGED from [com.android.support:cardview-v7:27.0.0] C:\Users\Haru\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.0.0.aar\1e9bd6757fefde6b76dbadb6dfca5391\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.0.0] C:\Users\Haru\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.0.0.aar\1e9bd6757fefde6b76dbadb6dfca5391\AndroidManifest.xml:20:5-44
+MERGED from [com.twitter.sdk.android:tweet-ui:3.1.1] C:\Users\Haru\.gradle\caches\transforms-1\files-1.1\tweet-ui-3.1.1.aar\d5d52ea16355196d9912f9295b5097c1\AndroidManifest.xml:23:5-44
+MERGED from [com.twitter.sdk.android:tweet-ui:3.1.1] C:\Users\Haru\.gradle\caches\transforms-1\files-1.1\tweet-ui-3.1.1.aar\d5d52ea16355196d9912f9295b5097c1\AndroidManifest.xml:23:5-44
+MERGED from [com.mopub:mopub-sdk:4.11.0] C:\Users\Haru\.gradle\caches\transforms-1\files-1.1\mopub-sdk-4.11.0.aar\9731aca36cef88f98567df50076468b8\AndroidManifest.xml:7:5-9:41
+MERGED from [com.mopub:mopub-sdk:4.11.0] C:\Users\Haru\.gradle\caches\transforms-1\files-1.1\mopub-sdk-4.11.0.aar\9731aca36cef88f98567df50076468b8\AndroidManifest.xml:7:5-9:41
+MERGED from [com.mopub:mopub-sdk-native-video:4.11.0] C:\Users\Haru\.gradle\caches\transforms-1\files-1.1\mopub-sdk-native-video-4.11.0.aar\d7cf8971863b1be232937534bdecff0c\AndroidManifest.xml:7:5-9:41
+MERGED from [com.mopub:mopub-sdk-native-video:4.11.0] C:\Users\Haru\.gradle\caches\transforms-1\files-1.1\mopub-sdk-native-video-4.11.0.aar\d7cf8971863b1be232937534bdecff0c\AndroidManifest.xml:7:5-9:41
+MERGED from [com.mopub:mopub-sdk-native-static:4.11.0] C:\Users\Haru\.gradle\caches\transforms-1\files-1.1\mopub-sdk-native-static-4.11.0.aar\04bbdb4a215c9e2d36e669c7abafb764\AndroidManifest.xml:7:5-9:41
+MERGED from [com.mopub:mopub-sdk-native-static:4.11.0] C:\Users\Haru\.gradle\caches\transforms-1\files-1.1\mopub-sdk-native-static-4.11.0.aar\04bbdb4a215c9e2d36e669c7abafb764\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:recyclerview-v7:27.0.0] C:\Users\Haru\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.0.0.aar\cc5f258aaa75a524f6427ffda2a0354f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.0.0] C:\Users\Haru\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.0.0.aar\cc5f258aaa75a524f6427ffda2a0354f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.0] C:\Users\Haru\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.0.aar\d08b60bf3f4fce9aeed20323e265e42c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.0] C:\Users\Haru\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.0.aar\d08b60bf3f4fce9aeed20323e265e42c\AndroidManifest.xml:20:5-44
+MERGED from [com.mopub:mopub-sdk-banner:4.11.0] C:\Users\Haru\.gradle\caches\transforms-1\files-1.1\mopub-sdk-banner-4.11.0.aar\32aaee360fab2ce64bfe1b9628b576af\AndroidManifest.xml:7:5-9:41
+MERGED from [com.mopub:mopub-sdk-banner:4.11.0] C:\Users\Haru\.gradle\caches\transforms-1\files-1.1\mopub-sdk-banner-4.11.0.aar\32aaee360fab2ce64bfe1b9628b576af\AndroidManifest.xml:7:5-9:41
+MERGED from [com.mopub:mopub-sdk-rewardedvideo:4.11.0] C:\Users\Haru\.gradle\caches\transforms-1\files-1.1\mopub-sdk-rewardedvideo-4.11.0.aar\66860868df3ca381c362f8fb9e31e0b6\AndroidManifest.xml:7:5-9:41
+MERGED from [com.mopub:mopub-sdk-rewardedvideo:4.11.0] C:\Users\Haru\.gradle\caches\transforms-1\files-1.1\mopub-sdk-rewardedvideo-4.11.0.aar\66860868df3ca381c362f8fb9e31e0b6\AndroidManifest.xml:7:5-9:41
+MERGED from [com.mopub:mopub-sdk-interstitial:4.11.0] C:\Users\Haru\.gradle\caches\transforms-1\files-1.1\mopub-sdk-interstitial-4.11.0.aar\3888241bfc870ab2463c96ad19e96fa6\AndroidManifest.xml:7:5-9:41
+MERGED from [com.mopub:mopub-sdk-interstitial:4.11.0] C:\Users\Haru\.gradle\caches\transforms-1\files-1.1\mopub-sdk-interstitial-4.11.0.aar\3888241bfc870ab2463c96ad19e96fa6\AndroidManifest.xml:7:5-9:41
+MERGED from [com.mopub:mopub-sdk-base:4.11.0] C:\Users\Haru\.gradle\caches\transforms-1\files-1.1\mopub-sdk-base-4.11.0.aar\2973fadc83167d3d48de7f5e1a7f82e1\AndroidManifest.xml:7:5-9:41
+MERGED from [com.mopub:mopub-sdk-base:4.11.0] C:\Users\Haru\.gradle\caches\transforms-1\files-1.1\mopub-sdk-base-4.11.0.aar\2973fadc83167d3d48de7f5e1a7f82e1\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:27.0.0] C:\Users\Haru\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.0.aar\7763ae03604efefd67274eb84edf6a9f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.0] C:\Users\Haru\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.0.aar\7763ae03604efefd67274eb84edf6a9f\AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.android:facebook-places:4.28.0] C:\Users\Haru\.gradle\caches\transforms-1\files-1.1\facebook-places-4.28.0.aar\49e7eecaaa1ab049194c03e3f581f5b5\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-places:4.28.0] C:\Users\Haru\.gradle\caches\transforms-1\files-1.1\facebook-places-4.28.0.aar\49e7eecaaa1ab049194c03e3f581f5b5\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-applinks:4.28.0] C:\Users\Haru\.gradle\caches\transforms-1\files-1.1\facebook-applinks-4.28.0.aar\776453d8f0ac1bf6fbc6ae908ed75db9\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-applinks:4.28.0] C:\Users\Haru\.gradle\caches\transforms-1\files-1.1\facebook-applinks-4.28.0.aar\776453d8f0ac1bf6fbc6ae908ed75db9\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-messenger:4.28.0] C:\Users\Haru\.gradle\caches\transforms-1\files-1.1\facebook-messenger-4.28.0.aar\167b6c9c20be0057b8919434f8432f1e\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-messenger:4.28.0] C:\Users\Haru\.gradle\caches\transforms-1\files-1.1\facebook-messenger-4.28.0.aar\167b6c9c20be0057b8919434f8432f1e\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-core:4.28.0] C:\Users\Haru\.gradle\caches\transforms-1\files-1.1\facebook-core-4.28.0.aar\22835d2b4178ac60aa8084f2af123caa\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-core:4.28.0] C:\Users\Haru\.gradle\caches\transforms-1\files-1.1\facebook-core-4.28.0.aar\22835d2b4178ac60aa8084f2af123caa\AndroidManifest.xml:24:5-26:41
+MERGED from [com.twitter.sdk.android:tweet-composer:3.1.1] C:\Users\Haru\.gradle\caches\transforms-1\files-1.1\tweet-composer-3.1.1.aar\9f9e7d26ae538af4d8e97df3f5af4c10\AndroidManifest.xml:23:5-44
+MERGED from [com.twitter.sdk.android:tweet-composer:3.1.1] C:\Users\Haru\.gradle\caches\transforms-1\files-1.1\tweet-composer-3.1.1.aar\9f9e7d26ae538af4d8e97df3f5af4c10\AndroidManifest.xml:23:5-44
+MERGED from [com.twitter.sdk.android:twitter-core:3.1.1] C:\Users\Haru\.gradle\caches\transforms-1\files-1.1\twitter-core-3.1.1.aar\232132cbd5ba93fa2ddf7a8d8796b03d\AndroidManifest.xml:23:5-44
+MERGED from [com.twitter.sdk.android:twitter-core:3.1.1] C:\Users\Haru\.gradle\caches\transforms-1\files-1.1\twitter-core-3.1.1.aar\232132cbd5ba93fa2ddf7a8d8796b03d\AndroidManifest.xml:23:5-44
+MERGED from [com.android.support:customtabs:25.3.1] C:\Users\Haru\.gradle\caches\transforms-1\files-1.1\customtabs-25.3.1.aar\89f23c037b3a63b297871bc4128c11f5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customtabs:25.3.1] C:\Users\Haru\.gradle\caches\transforms-1\files-1.1\customtabs-25.3.1.aar\89f23c037b3a63b297871bc4128c11f5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.0] C:\Users\Haru\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.0.aar\e25068042fe62375c7af0f119b371e68\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.0] C:\Users\Haru\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.0.aar\e25068042fe62375c7af0f119b371e68\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.0] C:\Users\Haru\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.0.aar\d87a05d0f687f38119d2271a94f2d09a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.0] C:\Users\Haru\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.0.aar\d87a05d0f687f38119d2271a94f2d09a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.0] C:\Users\Haru\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.0.aar\8089c8b90bc9d60dc50ad2eb778daa48\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.0] C:\Users\Haru\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.0.aar\8089c8b90bc9d60dc50ad2eb778daa48\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.0] C:\Users\Haru\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.0.aar\122d3c771d89342635f05e71cce985ec\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.0] C:\Users\Haru\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.0.aar\122d3c771d89342635f05e71cce985ec\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.0] C:\Users\Haru\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.0.aar\ee5be7f0d64e1f6ebc8d2933f7af184f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.0] C:\Users\Haru\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.0.aar\ee5be7f0d64e1f6ebc8d2933f7af184f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.0] C:\Users\Haru\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.0.aar\81e8e655c57067874deeeea5909bcb7a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.0] C:\Users\Haru\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.0.aar\81e8e655c57067874deeeea5909bcb7a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.0] C:\Users\Haru\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.0.aar\48362945e31e66e465b43a17d17187ad\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.0] C:\Users\Haru\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.0.aar\48362945e31e66e465b43a17d17187ad\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.exoplayer:exoplayer:r1.5.6] C:\Users\Haru\.gradle\caches\transforms-1\files-1.1\exoplayer-r1.5.6.aar\2bb83b710db69742ac8c64361513c1cd\AndroidManifest.xml:24:5-26:41
+MERGED from [com.google.android.exoplayer:exoplayer:r1.5.6] C:\Users\Haru\.gradle\caches\transforms-1\files-1.1\exoplayer-r1.5.6.aar\2bb83b710db69742ac8c64361513c1cd\AndroidManifest.xml:24:5-26:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Haru\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\a93ca50364213ddfa3e647f48bd7d8a2\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Haru\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\a93ca50364213ddfa3e647f48bd7d8a2\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\Haru\AndroidStudioProjects\OSS-green-07-master\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Haru\AndroidStudioProjects\OSS-green-07-master\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Haru\AndroidStudioProjects\OSS-green-07-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Haru\AndroidStudioProjects\OSS-green-07-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Haru\AndroidStudioProjects\OSS-green-07-master\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Haru\AndroidStudioProjects\OSS-green-07-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Haru\AndroidStudioProjects\OSS-green-07-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Haru\AndroidStudioProjects\OSS-green-07-master\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from [com.github.nileshpambhar:MultiPhotoPicker:v1.2] C:\Users\Haru\.gradle\caches\transforms-1\files-1.1\MultiPhotoPicker-v1.2.aar\0fe771ea4d6ad4ef6afd394ee5d5ffbf\AndroidManifest.xml:11:5-81
+	android:name
+		ADDED from [com.github.nileshpambhar:MultiPhotoPicker:v1.2] C:\Users\Haru\.gradle\caches\transforms-1\files-1.1\MultiPhotoPicker-v1.2.aar\0fe771ea4d6ad4ef6afd394ee5d5ffbf\AndroidManifest.xml:11:22-78
+activity#com.nileshp.multiphotopicker.photopicker.activity.PickImageActivity
+ADDED from [com.github.nileshpambhar:MultiPhotoPicker:v1.2] C:\Users\Haru\.gradle\caches\transforms-1\files-1.1\MultiPhotoPicker-v1.2.aar\0fe771ea4d6ad4ef6afd394ee5d5ffbf\AndroidManifest.xml:20:9-104
+	android:name
+		ADDED from [com.github.nileshpambhar:MultiPhotoPicker:v1.2] C:\Users\Haru\.gradle\caches\transforms-1\files-1.1\MultiPhotoPicker-v1.2.aar\0fe771ea4d6ad4ef6afd394ee5d5ffbf\AndroidManifest.xml:20:19-101
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.twitter.sdk.android:twitter-mopub:3.1.1] C:\Users\Haru\.gradle\caches\transforms-1\files-1.1\twitter-mopub-3.1.1.aar\4f293d7feae23270a1a3c9d11cd34593\AndroidManifest.xml:25:5-79
+	android:name
+		ADDED from [com.twitter.sdk.android:twitter-mopub:3.1.1] C:\Users\Haru\.gradle\caches\transforms-1\files-1.1\twitter-mopub-3.1.1.aar\4f293d7feae23270a1a3c9d11cd34593\AndroidManifest.xml:25:22-76
+activity#com.mopub.mobileads.MoPubActivity
+ADDED from [com.twitter.sdk.android:twitter-mopub:3.1.1] C:\Users\Haru\.gradle\caches\transforms-1\files-1.1\twitter-mopub-3.1.1.aar\4f293d7feae23270a1a3c9d11cd34593\AndroidManifest.xml:28:9-30:77
+	android:configChanges
+		ADDED from [com.twitter.sdk.android:twitter-mopub:3.1.1] C:\Users\Haru\.gradle\caches\transforms-1\files-1.1\twitter-mopub-3.1.1.aar\4f293d7feae23270a1a3c9d11cd34593\AndroidManifest.xml:30:13-74
+	android:name
+		ADDED from [com.twitter.sdk.android:twitter-mopub:3.1.1] C:\Users\Haru\.gradle\caches\transforms-1\files-1.1\twitter-mopub-3.1.1.aar\4f293d7feae23270a1a3c9d11cd34593\AndroidManifest.xml:29:13-61
+activity#com.mopub.mobileads.MraidActivity
+ADDED from [com.twitter.sdk.android:twitter-mopub:3.1.1] C:\Users\Haru\.gradle\caches\transforms-1\files-1.1\twitter-mopub-3.1.1.aar\4f293d7feae23270a1a3c9d11cd34593\AndroidManifest.xml:31:9-33:77
+	android:configChanges
+		ADDED from [com.twitter.sdk.android:twitter-mopub:3.1.1] C:\Users\Haru\.gradle\caches\transforms-1\files-1.1\twitter-mopub-3.1.1.aar\4f293d7feae23270a1a3c9d11cd34593\AndroidManifest.xml:33:13-74
+	android:name
+		ADDED from [com.twitter.sdk.android:twitter-mopub:3.1.1] C:\Users\Haru\.gradle\caches\transforms-1\files-1.1\twitter-mopub-3.1.1.aar\4f293d7feae23270a1a3c9d11cd34593\AndroidManifest.xml:32:13-61
+activity#com.mopub.common.MoPubBrowser
+ADDED from [com.twitter.sdk.android:twitter-mopub:3.1.1] C:\Users\Haru\.gradle\caches\transforms-1\files-1.1\twitter-mopub-3.1.1.aar\4f293d7feae23270a1a3c9d11cd34593\AndroidManifest.xml:34:9-36:77
+	android:configChanges
+		ADDED from [com.twitter.sdk.android:twitter-mopub:3.1.1] C:\Users\Haru\.gradle\caches\transforms-1\files-1.1\twitter-mopub-3.1.1.aar\4f293d7feae23270a1a3c9d11cd34593\AndroidManifest.xml:36:13-74
+	android:name
+		ADDED from [com.twitter.sdk.android:twitter-mopub:3.1.1] C:\Users\Haru\.gradle\caches\transforms-1\files-1.1\twitter-mopub-3.1.1.aar\4f293d7feae23270a1a3c9d11cd34593\AndroidManifest.xml:35:13-57
+activity#com.mopub.mobileads.MraidVideoPlayerActivity
+ADDED from [com.twitter.sdk.android:twitter-mopub:3.1.1] C:\Users\Haru\.gradle\caches\transforms-1\files-1.1\twitter-mopub-3.1.1.aar\4f293d7feae23270a1a3c9d11cd34593\AndroidManifest.xml:37:9-39:77
+	android:configChanges
+		ADDED from [com.twitter.sdk.android:twitter-mopub:3.1.1] C:\Users\Haru\.gradle\caches\transforms-1\files-1.1\twitter-mopub-3.1.1.aar\4f293d7feae23270a1a3c9d11cd34593\AndroidManifest.xml:39:13-74
+	android:name
+		ADDED from [com.twitter.sdk.android:twitter-mopub:3.1.1] C:\Users\Haru\.gradle\caches\transforms-1\files-1.1\twitter-mopub-3.1.1.aar\4f293d7feae23270a1a3c9d11cd34593\AndroidManifest.xml:38:13-72
+activity#com.facebook.CustomTabMainActivity
+ADDED from [com.facebook.android:facebook-common:4.28.0] C:\Users\Haru\.gradle\caches\transforms-1\files-1.1\facebook-common-4.28.0.aar\931541f704abeb5cdb438aaf0048a43e\AndroidManifest.xml:33:9-71
+	android:name
+		ADDED from [com.facebook.android:facebook-common:4.28.0] C:\Users\Haru\.gradle\caches\transforms-1\files-1.1\facebook-common-4.28.0.aar\931541f704abeb5cdb438aaf0048a43e\AndroidManifest.xml:33:19-68
+activity#com.twitter.sdk.android.tweetui.PlayerActivity
+ADDED from [com.twitter.sdk.android:tweet-ui:3.1.1] C:\Users\Haru\.gradle\caches\transforms-1\files-1.1\tweet-ui-3.1.1.aar\d5d52ea16355196d9912f9295b5097c1\AndroidManifest.xml:28:9-31:49
+	android:configChanges
+		ADDED from [com.twitter.sdk.android:tweet-ui:3.1.1] C:\Users\Haru\.gradle\caches\transforms-1\files-1.1\tweet-ui-3.1.1.aar\d5d52ea16355196d9912f9295b5097c1\AndroidManifest.xml:30:13-74
+	android:theme
+		ADDED from [com.twitter.sdk.android:tweet-ui:3.1.1] C:\Users\Haru\.gradle\caches\transforms-1\files-1.1\tweet-ui-3.1.1.aar\d5d52ea16355196d9912f9295b5097c1\AndroidManifest.xml:31:13-46
+	android:name
+		ADDED from [com.twitter.sdk.android:tweet-ui:3.1.1] C:\Users\Haru\.gradle\caches\transforms-1\files-1.1\tweet-ui-3.1.1.aar\d5d52ea16355196d9912f9295b5097c1\AndroidManifest.xml:29:13-74
+activity#com.twitter.sdk.android.tweetui.GalleryActivity
+ADDED from [com.twitter.sdk.android:tweet-ui:3.1.1] C:\Users\Haru\.gradle\caches\transforms-1\files-1.1\tweet-ui-3.1.1.aar\d5d52ea16355196d9912f9295b5097c1\AndroidManifest.xml:32:9-34:49
+	android:theme
+		ADDED from [com.twitter.sdk.android:tweet-ui:3.1.1] C:\Users\Haru\.gradle\caches\transforms-1\files-1.1\tweet-ui-3.1.1.aar\d5d52ea16355196d9912f9295b5097c1\AndroidManifest.xml:34:13-46
+	android:name
+		ADDED from [com.twitter.sdk.android:tweet-ui:3.1.1] C:\Users\Haru\.gradle\caches\transforms-1\files-1.1\tweet-ui-3.1.1.aar\d5d52ea16355196d9912f9295b5097c1\AndroidManifest.xml:33:13-75
+provider#com.facebook.internal.FacebookInitProvider
+ADDED from [com.facebook.android:facebook-core:4.28.0] C:\Users\Haru\.gradle\caches\transforms-1\files-1.1\facebook-core-4.28.0.aar\22835d2b4178ac60aa8084f2af123caa\AndroidManifest.xml:39:9-42:40
+	android:authorities
+		ADDED from [com.facebook.android:facebook-core:4.28.0] C:\Users\Haru\.gradle\caches\transforms-1\files-1.1\facebook-core-4.28.0.aar\22835d2b4178ac60aa8084f2af123caa\AndroidManifest.xml:41:13-72
+	android:exported
+		ADDED from [com.facebook.android:facebook-core:4.28.0] C:\Users\Haru\.gradle\caches\transforms-1\files-1.1\facebook-core-4.28.0.aar\22835d2b4178ac60aa8084f2af123caa\AndroidManifest.xml:42:13-37
+	android:name
+		ADDED from [com.facebook.android:facebook-core:4.28.0] C:\Users\Haru\.gradle\caches\transforms-1\files-1.1\facebook-core-4.28.0.aar\22835d2b4178ac60aa8084f2af123caa\AndroidManifest.xml:40:13-70
+activity#com.twitter.sdk.android.tweetcomposer.ComposerActivity
+ADDED from [com.twitter.sdk.android:tweet-composer:3.1.1] C:\Users\Haru\.gradle\caches\transforms-1\files-1.1\tweet-composer-3.1.1.aar\9f9e7d26ae538af4d8e97df3f5af4c10\AndroidManifest.xml:28:9-31:71
+	android:windowSoftInputMode
+		ADDED from [com.twitter.sdk.android:tweet-composer:3.1.1] C:\Users\Haru\.gradle\caches\transforms-1\files-1.1\tweet-composer-3.1.1.aar\9f9e7d26ae538af4d8e97df3f5af4c10\AndroidManifest.xml:31:13-68
+	android:exported
+		ADDED from [com.twitter.sdk.android:tweet-composer:3.1.1] C:\Users\Haru\.gradle\caches\transforms-1\files-1.1\tweet-composer-3.1.1.aar\9f9e7d26ae538af4d8e97df3f5af4c10\AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [com.twitter.sdk.android:tweet-composer:3.1.1] C:\Users\Haru\.gradle\caches\transforms-1\files-1.1\tweet-composer-3.1.1.aar\9f9e7d26ae538af4d8e97df3f5af4c10\AndroidManifest.xml:29:13-82
+service#com.twitter.sdk.android.tweetcomposer.TweetUploadService
+ADDED from [com.twitter.sdk.android:tweet-composer:3.1.1] C:\Users\Haru\.gradle\caches\transforms-1\files-1.1\tweet-composer-3.1.1.aar\9f9e7d26ae538af4d8e97df3f5af4c10\AndroidManifest.xml:33:9-36:40
+	android:enabled
+		ADDED from [com.twitter.sdk.android:tweet-composer:3.1.1] C:\Users\Haru\.gradle\caches\transforms-1\files-1.1\tweet-composer-3.1.1.aar\9f9e7d26ae538af4d8e97df3f5af4c10\AndroidManifest.xml:35:13-35
+	android:exported
+		ADDED from [com.twitter.sdk.android:tweet-composer:3.1.1] C:\Users\Haru\.gradle\caches\transforms-1\files-1.1\tweet-composer-3.1.1.aar\9f9e7d26ae538af4d8e97df3f5af4c10\AndroidManifest.xml:36:13-37
+	android:name
+		ADDED from [com.twitter.sdk.android:tweet-composer:3.1.1] C:\Users\Haru\.gradle\caches\transforms-1\files-1.1\tweet-composer-3.1.1.aar\9f9e7d26ae538af4d8e97df3f5af4c10\AndroidManifest.xml:34:13-84
+activity#com.twitter.sdk.android.core.identity.OAuthActivity
+ADDED from [com.twitter.sdk.android:twitter-core:3.1.1] C:\Users\Haru\.gradle\caches\transforms-1\files-1.1\twitter-core-3.1.1.aar\232132cbd5ba93fa2ddf7a8d8796b03d\AndroidManifest.xml:28:9-32:40
+	android:excludeFromRecents
+		ADDED from [com.twitter.sdk.android:twitter-core:3.1.1] C:\Users\Haru\.gradle\caches\transforms-1\files-1.1\twitter-core-3.1.1.aar\232132cbd5ba93fa2ddf7a8d8796b03d\AndroidManifest.xml:31:13-46
+	android:exported
+		ADDED from [com.twitter.sdk.android:twitter-core:3.1.1] C:\Users\Haru\.gradle\caches\transforms-1\files-1.1\twitter-core-3.1.1.aar\232132cbd5ba93fa2ddf7a8d8796b03d\AndroidManifest.xml:32:13-37
+	android:configChanges
+		ADDED from [com.twitter.sdk.android:twitter-core:3.1.1] C:\Users\Haru\.gradle\caches\transforms-1\files-1.1\twitter-core-3.1.1.aar\232132cbd5ba93fa2ddf7a8d8796b03d\AndroidManifest.xml:30:13-59
+	android:name
+		ADDED from [com.twitter.sdk.android:twitter-core:3.1.1] C:\Users\Haru\.gradle\caches\transforms-1\files-1.1\twitter-core-3.1.1.aar\232132cbd5ba93fa2ddf7a8d8796b03d\AndroidManifest.xml:29:13-79
+meta-data#android.support.VERSION
+ADDED from [com.android.support:customtabs:25.3.1] C:\Users\Haru\.gradle\caches\transforms-1\files-1.1\customtabs-25.3.1.aar\89f23c037b3a63b297871bc4128c11f5\AndroidManifest.xml:22:5-24:34
+	android:value
+		ADDED from [com.android.support:customtabs:25.3.1] C:\Users\Haru\.gradle\caches\transforms-1\files-1.1\customtabs-25.3.1.aar\89f23c037b3a63b297871bc4128c11f5\AndroidManifest.xml:24:9-31
+	android:name
+		ADDED from [com.android.support:customtabs:25.3.1] C:\Users\Haru\.gradle\caches\transforms-1\files-1.1\customtabs-25.3.1.aar\89f23c037b3a63b297871bc4128c11f5\AndroidManifest.xml:23:9-47
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Haru\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\a93ca50364213ddfa3e647f48bd7d8a2\AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Haru\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\a93ca50364213ddfa3e647f48bd7d8a2\AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Haru\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\a93ca50364213ddfa3e647f48bd7d8a2\AndroidManifest.xml:26:13-58
