@@ -775,14 +775,14 @@ public final class R {
         public static final int abc_toolbar_collapse_description = 0x7f0e001e;
         public static final int action_sort = 0x7f0e001f;
         public static final int app_name = 0x7f0e0020;
-        public static final int pick_image_from_gallery = 0x7f0e003d;
-        public static final int search_menu_title = 0x7f0e003e;
-        public static final int status_bar_notification_info_overflow = 0x7f0e003f;
-        public static final int text_button_done = 0x7f0e0040;
-        public static final int text_images = 0x7f0e0041;
-        public static final int text_title_activity_album = 0x7f0e0042;
-        public static final int text_title_dialog_sort_by_album = 0x7f0e0043;
-        public static final int text_title_dialog_sort_by_photo = 0x7f0e0044;
+        public static final int pick_image_from_gallery = 0x7f0e003e;
+        public static final int search_menu_title = 0x7f0e003f;
+        public static final int status_bar_notification_info_overflow = 0x7f0e0040;
+        public static final int text_button_done = 0x7f0e0041;
+        public static final int text_images = 0x7f0e0042;
+        public static final int text_title_activity_album = 0x7f0e0043;
+        public static final int text_title_dialog_sort_by_album = 0x7f0e0044;
+        public static final int text_title_dialog_sort_by_photo = 0x7f0e0045;
     }
     public static final class style {
         public static final int AlertDialog_AppCompat = 0x7f0f0000;

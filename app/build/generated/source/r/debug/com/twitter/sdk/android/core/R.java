@@ -36,6 +36,6 @@ public final class R {
         public static final int tw__activity_oauth = 0x7f0a0046;
     }
     public static final class string {
-        public static final int tw__login_btn_txt = 0x7f0e0049;
+        public static final int tw__login_btn_txt = 0x7f0e004a;
     }
 }

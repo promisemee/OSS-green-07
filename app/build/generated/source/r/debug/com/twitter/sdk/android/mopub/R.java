@@ -63,8 +63,8 @@ public final class R {
         public static final int tw__native_ad = 0x7f0a004a;
     }
     public static final class string {
-        public static final int tw__privacy_icon_content_desc = 0x7f0e004e;
-        public static final int tw__sponsored = 0x7f0e0056;
+        public static final int tw__privacy_icon_content_desc = 0x7f0e004f;
+        public static final int tw__sponsored = 0x7f0e0057;
     }
     public static final class style {
         public static final int tw__ad_DarkStyle = 0x7f0f01b0;
