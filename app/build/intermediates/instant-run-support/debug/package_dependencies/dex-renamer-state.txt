@@ -1,0 +1,4 @@
+#Tue Nov 28 11:02:15 KST 2017
+base.0=C\:\\Users\\Haru\\AndroidStudioProjects\\OSS-green-07-master\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\10
+path.0=classes.dex
+renamed.0=classes.dex
