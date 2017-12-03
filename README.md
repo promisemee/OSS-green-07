@@ -29,9 +29,9 @@ You can Share your card news by hitting the button on the left of your Card.
 
 ## Prerequisites
    First off, you require the latest Android Studio 3.0.1 (or newer) to be able to build the app.    
-   [Android SDK](https://developer.android.com/studio/preview/index.html?hl=ko)  
-   Android SDK Build-Tools 26.0.2  
-   Android 8.1 (API 27)  
+   * [Android SDK](https://developer.android.com/studio/preview/index.html?hl=ko)  
+   * Android SDK Build-Tools 26.0.2  
+   * Android 8.1 (API 27)  
    
 
 ### Libraries
