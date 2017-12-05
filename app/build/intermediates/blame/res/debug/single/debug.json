@@ -44,12 +44,12 @@
         "source": "C:\\Users\\Haru\\.gradle\\caches\\transforms-1\\files-1.1\\facebook-messenger-4.28.0.aar\\167b6c9c20be0057b8919434f8432f1e\\res\\drawable-xhdpi-v4\\messenger_bubble_large_white.png"
     },
     {
-        "merged": "C:\\Users\\Haru\\AndroidStudioProjects\\OSS-green-07-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_tw__ic_tweet_verified.png.flat",
-        "source": "C:\\Users\\Haru\\.gradle\\caches\\transforms-1\\files-1.1\\tweet-ui-3.1.1.aar\\d5d52ea16355196d9912f9295b5097c1\\res\\drawable-mdpi-v4\\tw__ic_tweet_verified.png"
-    },
-    {
         "merged": "C:\\Users\\Haru\\AndroidStudioProjects\\OSS-green-07-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_screen_simple_overlay_action_mode.xml.flat",
         "source": "C:\\Users\\Haru\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.0.aar\\d08b60bf3f4fce9aeed20323e265e42c\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "C:\\Users\\Haru\\AndroidStudioProjects\\OSS-green-07-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_tw__ic_tweet_verified.png.flat",
+        "source": "C:\\Users\\Haru\\.gradle\\caches\\transforms-1\\files-1.1\\tweet-ui-3.1.1.aar\\d5d52ea16355196d9912f9295b5097c1\\res\\drawable-mdpi-v4\\tw__ic_tweet_verified.png"
     },
     {
         "merged": "C:\\Users\\Haru\\AndroidStudioProjects\\OSS-green-07-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xhdpi-v17_abc_ic_menu_cut_mtrl_alpha.png.flat",
@@ -80,24 +80,24 @@
         "source": "C:\\Users\\Haru\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.0.aar\\d08b60bf3f4fce9aeed20323e265e42c\\res\\drawable-mdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
     },
     {
-        "merged": "C:\\Users\\Haru\\AndroidStudioProjects\\OSS-green-07-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
-        "source": "C:\\Users\\Haru\\AndroidStudioProjects\\OSS-green-07-master\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
-    },
-    {
         "merged": "C:\\Users\\Haru\\AndroidStudioProjects\\OSS-green-07-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_tw__heart_animation_detail_60fps_00054.png.flat",
         "source": "C:\\Users\\Haru\\.gradle\\caches\\transforms-1\\files-1.1\\tweet-ui-3.1.1.aar\\d5d52ea16355196d9912f9295b5097c1\\res\\drawable-xhdpi-v4\\tw__heart_animation_detail_60fps_00054.png"
+    },
+    {
+        "merged": "C:\\Users\\Haru\\AndroidStudioProjects\\OSS-green-07-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Haru\\AndroidStudioProjects\\OSS-green-07-master\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
     },
     {
         "merged": "C:\\Users\\Haru\\AndroidStudioProjects\\OSS-green-07-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_normal_pressed.9.png.flat",
         "source": "C:\\Users\\Haru\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.0.aar\\48362945e31e66e465b43a17d17187ad\\res\\drawable-xhdpi-v4\\notification_bg_normal_pressed.9.png"
     },
     {
-        "merged": "C:\\Users\\Haru\\AndroidStudioProjects\\OSS-green-07-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_com_facebook_tooltip_blue_topnub.png.flat",
-        "source": "C:\\Users\\Haru\\.gradle\\caches\\transforms-1\\files-1.1\\facebook-login-4.28.0.aar\\d3424335f213fb2ffe9687f6127c6293\\res\\drawable-xhdpi-v4\\com_facebook_tooltip_blue_topnub.png"
-    },
-    {
         "merged": "C:\\Users\\Haru\\AndroidStudioProjects\\OSS-green-07-master\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_tint_edittext.xml.flat",
         "source": "C:\\Users\\Haru\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.0.aar\\d08b60bf3f4fce9aeed20323e265e42c\\res\\color\\abc_tint_edittext.xml"
+    },
+    {
+        "merged": "C:\\Users\\Haru\\AndroidStudioProjects\\OSS-green-07-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_com_facebook_tooltip_blue_topnub.png.flat",
+        "source": "C:\\Users\\Haru\\.gradle\\caches\\transforms-1\\files-1.1\\facebook-login-4.28.0.aar\\d3424335f213fb2ffe9687f6127c6293\\res\\drawable-xhdpi-v4\\com_facebook_tooltip_blue_topnub.png"
     },
     {
         "merged": "C:\\Users\\Haru\\AndroidStudioProjects\\OSS-green-07-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",

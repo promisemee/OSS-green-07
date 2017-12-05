@@ -48,23 +48,23 @@ public final class R {
     }
     public static final class id {
         public static final int item_touch_helper_previous_elevation = 0x7f08006a;
-        public static final int native_ad_card = 0x7f08007d;
-        public static final int native_ad_cta = 0x7f08007e;
-        public static final int native_ad_icon_image = 0x7f08007f;
-        public static final int native_ad_main_image = 0x7f080080;
-        public static final int native_ad_privacy = 0x7f080081;
-        public static final int native_ad_privacy_info_icon_image = 0x7f080082;
-        public static final int native_ad_privacy_text = 0x7f080083;
-        public static final int native_ad_text = 0x7f080084;
-        public static final int native_ad_title = 0x7f080085;
-        public static final int tw__ad_mopub_layout = 0x7f0800ca;
+        public static final int native_ad_card = 0x7f08007e;
+        public static final int native_ad_cta = 0x7f08007f;
+        public static final int native_ad_icon_image = 0x7f080080;
+        public static final int native_ad_main_image = 0x7f080081;
+        public static final int native_ad_privacy = 0x7f080082;
+        public static final int native_ad_privacy_info_icon_image = 0x7f080083;
+        public static final int native_ad_privacy_text = 0x7f080084;
+        public static final int native_ad_text = 0x7f080085;
+        public static final int native_ad_title = 0x7f080086;
+        public static final int tw__ad_mopub_layout = 0x7f0800cb;
     }
     public static final class layout {
         public static final int tw__native_ad = 0x7f0a004a;
     }
     public static final class string {
-        public static final int tw__privacy_icon_content_desc = 0x7f0e004f;
-        public static final int tw__sponsored = 0x7f0e0057;
+        public static final int tw__privacy_icon_content_desc = 0x7f0e0050;
+        public static final int tw__sponsored = 0x7f0e0058;
     }
     public static final class style {
         public static final int tw__ad_DarkStyle = 0x7f0f01b0;
